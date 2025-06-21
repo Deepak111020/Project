@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build a Complete Responsive Task Management System | HTML & CSS & Javascript | 4 Hours Course
 
 We will build a two-pages task management system. We will work intensively with HTML & CSS. And we are going to use Javascript as well to add some user interactions. What we will accomplish together:
@@ -25,3 +26,7 @@ We will build a two-pages task management system. We will work intensively with 
 ## Run
 
 If you are using Visual Studio Code, use live server extension to run the project in the brower. Or similar extension in your editor of choise. Or even simpler, open the html page directly in your favorite browser😉
+=======
+# Project
+Projects which is developed by deepak will be deployed here
+>>>>>>> 4a858d35399477016c8bec93455c07e723960e67
